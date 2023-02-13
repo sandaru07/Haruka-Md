@@ -1,5 +1,5 @@
 {
-    "wait": "_Sedang Di Proses_",
+    "wait": "```PLEASE WAIT``` ✅",
     "error": {
         "Iv": "Link yang kamu berikan tidak valid",
         "api": "Maaf terjadi kesalahan"
@@ -7,7 +7,7 @@
     "OnlyGrup": "Perintah ini hanya bisa digunakan di grup",
     "OnlyPM": "Perintah ini hanya bisa digunakan di private message",
     "GrupAdmin": "Perintah ini hanya bisa digunakan oleh Admin Grup",
-    "BotAdmin": "Bot Harus menjadi admin",
+    "BotAdmin": "Bot Must be admin",
     "OnlyOwner": "Perintah ini hanya dapat digunakan oleh owner bot",
     "OnlyPrem": "Perintah ini khusus member premium"
 }
